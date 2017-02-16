@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+node_modules/
+build/
+bower_components/
+npm-debug.log
+Session.vim
+*.zip
+/.idea/
+*.iml
+
